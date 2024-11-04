@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+nltk = "*"
+regex = "*"
+cohere = "*"
+python-dotenv = "*"
+matplotlib = "*"
+tiktoken = "*"
+langchain-ai21 = "*"
+transformers = "*"
+bittensor = "*"
+unstructured = "*"
+ragas = "*"
+sentence_transformers = "==3.0.1"
+PyPDF2 = "*"
+tabulate = "*"
+numpy = "*"
+langchain-openai = "*"
+joblib = "*"
+pandas = "*"
+tqdm = "*"
+pinecone = "*"
+boto3 = "*"
+
+[dev-packages]
+ipykernel = "*"
+ipdb = "*"
+pytest = "==8.3.2"
+
+[requires]
+python_version = "3.12"
