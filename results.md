@@ -2,6 +2,10 @@
 
 Some results tabulated for easier digestion/comparison. More visualizations can be found on the [interactive benchmark page](https://subnet.chunking.com/benchmarks/c8dfa00c-f21d-4233-8491-b6396946dca4)
 
+- Recall measures the percentage of all available relevant context that was included in the chunk. We used [Raga's LLM Based Context Recall](https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/context_recall/) metric.
+- Precision measures the percentage of relevant context only within the chunk itself. We used [Raga's LLM Based Context Precision](https://docs.ragas.io/en/latest/concepts/metrics/available_metrics/context_precision/) metric.
+- F1-score is the harmonic mean of recall and precision. It's commonly used as a way to integrate both metrics.
+
 ## All Corpora
 
 ### Token Limit: 50
