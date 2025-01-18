@@ -1,0 +1,1722 @@
+{
+    "all": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.5245901638819672,
+            "context_recall": 0.47435897435897434,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9193548386177418,
+            "context_recall": 0.8100818452380952,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9571428570471427,
+            "context_recall": 0.8749111584932481,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.6111111110499998,
+            "context_recall": 0.4386574074074074,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9032258063612901,
+            "context_recall": 0.7572639225181598,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9589041094931505,
+            "context_recall": 0.8963032581453634,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.43157894732526314,
+            "context_recall": 0.24529688418577308,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.8539325841842695,
+            "context_recall": 0.6570567986230638,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9347826086021738,
+            "context_recall": 0.8702623906705539,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.4583333332875,
+            "context_recall": 0.32724867724867723,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.8137254901147059,
+            "context_recall": 0.6347517730496455,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.8627450979529411,
+            "context_recall": 0.791170634920635,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_0": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.44444444439999997,
+            "context_recall": 0.4444444444444444,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.8888888887999999,
+            "context_recall": 0.8055555555555556,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.8888888887999999,
+            "context_recall": 0.9166666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.4444444444444444,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.8888888887999999,
+            "context_recall": 0.8214285714285714,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.8888888887999999,
+            "context_recall": 0.9166666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.5555555555,
+            "context_recall": 0.5925925925925926,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.8888888887999999,
+            "context_recall": 0.7777777777777778,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.5555555555555556,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.625,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_1": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.59999999994,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.613095238095238,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.6726190476190476,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5446428571428571,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.6726190476190476,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.21428571428571427,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5476190476190476,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7142857142857143,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.2976190476190476,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8214285714285714,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_2": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.7142857142142857,
+            "context_recall": 0.5714285714285714,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.8928571428571429,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.7142857142142857,
+            "context_recall": 0.5952380952380952,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8928571428571429,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9285714285714286,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.7142857142142857,
+            "context_recall": 0.4523809523809524,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.875,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9285714285714286,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.7142857142142857,
+            "context_recall": 0.7142857142857143,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8125,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_3": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.0625,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.5333333333333333,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.625,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.05,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.5333333333333333,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.7,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.25,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.27777777777777773,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.59999999994,
+            "context_recall": 0.25,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.6,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_4": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.75,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_6": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5416666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7916666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5555555555555555,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.27777777777777773,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.875,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.875,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_7": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.39999999996,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.0,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.25,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.1,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.59999999994,
+            "context_recall": 0.6,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.6,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.1,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_8": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.0,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.375,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.5,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "openwebtext-10k_9": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.49999999995,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.4333333333333333,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.0,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.39999999996,
+            "context_recall": 0.25,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.25,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.4444444444444444,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.7777777777777777,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_75": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.25,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.75,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_233": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.3611111111111111,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.36666666666666664,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.75,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.39999999996,
+            "context_recall": 0.08333333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.3,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.5,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_258": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.16666666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.375,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.19999999998,
+            "context_recall": 0.125,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.4,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.19999999998,
+            "context_recall": 0.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.4,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.8,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_541": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9166666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.9166666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.8,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.4166666666666667,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_1103": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.5416666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.0,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.5833333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.16666666666666666,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.5833333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.5,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_1324": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.2222222222222222,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.3333333333,
+            "context_recall": 0.2222222222222222,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_2351": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.19999999998,
+            "context_recall": 0.2,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.875,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.25,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.79999999992,
+            "context_recall": 0.7,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.49999999995,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.14285714284285714,
+            "context_recall": 0.07142857142857142,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.7142857142142857,
+            "context_recall": 0.7142857142857143,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.83333333325,
+            "context_recall": 0.9166666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.16666666665,
+            "context_recall": 0.25,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.8571428570571429,
+            "context_recall": 0.8571428571428571,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_4382": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.16666666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.4,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_4705": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.5625,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.49999999995,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.5,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.5833333333333334,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.5833333333333334,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    },
+    "wikitext_5158": {
+        "miner-51_avg-130-tokenlimit-50": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 50
+        },
+        "miner-51_avg-130-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.75,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 150
+        },
+        "miner-51_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-51_avg",
+            "tokenlimit": 250
+        },
+        "miner-56_avg-130-tokenlimit-50": {
+            "context_precision": 0.0,
+            "context_recall": 0.5,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 50
+        },
+        "miner-56_avg-130-tokenlimit-150": {
+            "context_precision": 0.6666666666,
+            "context_recall": 0.6666666666666666,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 150
+        },
+        "miner-56_avg-130-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 0.8333333333333334,
+            "chunk_avg_size": 130,
+            "method": "miner-56_avg",
+            "tokenlimit": 250
+        },
+        "unstructured_chunker-129-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 50
+        },
+        "unstructured_chunker-129-tokenlimit-150": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 150
+        },
+        "unstructured_chunker-129-tokenlimit-250": {
+            "context_precision": 0.9999999999,
+            "context_recall": 1.0,
+            "chunk_avg_size": 129,
+            "method": "unstructured_chunker",
+            "tokenlimit": 250
+        },
+        "ai21-145-tokenlimit-50": {
+            "context_precision": 0.249999999975,
+            "context_recall": 0.3333333333333333,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 50
+        },
+        "ai21-145-tokenlimit-150": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.75,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 150
+        },
+        "ai21-145-tokenlimit-250": {
+            "context_precision": 0.749999999925,
+            "context_recall": 0.75,
+            "chunk_avg_size": 145,
+            "method": "ai21",
+            "tokenlimit": 250
+        }
+    }
+}

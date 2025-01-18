@@ -1,0 +1,11 @@
+{
+  "question": "Who stopped by Mission Control the evening before the Apollo 8 launch?",
+  "index_name": "openai-index",
+  "namespace": "miner-40_mixed_1000_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_3"
+  },
+  "to_rerank": true
+}

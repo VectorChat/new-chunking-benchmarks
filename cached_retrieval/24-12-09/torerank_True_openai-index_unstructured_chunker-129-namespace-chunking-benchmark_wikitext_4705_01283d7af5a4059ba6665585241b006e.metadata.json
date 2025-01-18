@@ -1,0 +1,11 @@
+{
+  "question": "What position did Morton accept in 1811 and who offered it to him?",
+  "index_name": "openai-index",
+  "namespace": "unstructured_chunker-129-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_4705"
+  },
+  "to_rerank": true
+}

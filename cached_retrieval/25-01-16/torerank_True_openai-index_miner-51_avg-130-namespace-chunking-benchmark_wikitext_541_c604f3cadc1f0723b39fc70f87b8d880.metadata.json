@@ -1,0 +1,11 @@
+{
+  "question": "What were the free throw and 3-point shooting percentages for Duquesne in the Atlantic 10 for the season described?",
+  "index_name": "openai-index",
+  "namespace": "miner-51_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_541"
+  },
+  "to_rerank": true
+}

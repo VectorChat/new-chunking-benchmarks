@@ -1,0 +1,11 @@
+{
+  "question": "What is the percentage of Alice's opening range she needs to 4-bet to make Bob's bluffs break even?",
+  "index_name": "openai-index",
+  "namespace": "miner-51_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_1"
+  },
+  "to_rerank": true
+}

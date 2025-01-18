@@ -1,0 +1,11 @@
+{
+  "question": "What adjustments might Bob consider against an opponent who neither 4-bet bluffs nor defends a wide range?",
+  "index_name": "openai-index",
+  "namespace": "ai21-145-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_1"
+  },
+  "to_rerank": true
+}

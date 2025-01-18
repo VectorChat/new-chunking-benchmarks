@@ -1,0 +1,11 @@
+{
+  "question": "What role does the concept of substance play in understanding the empirical, spatio-temporal world according to P. F. Strawson?",
+  "index_name": "openai-index",
+  "namespace": "miner-40_mixed_1000_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_2"
+  },
+  "to_rerank": true
+}

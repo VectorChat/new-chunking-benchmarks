@@ -1,0 +1,11 @@
+{
+  "question": "What argument does Lowe use to respond to objections regarding essential properties?",
+  "index_name": "openai-index",
+  "namespace": "ai21-145-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_2"
+  },
+  "to_rerank": true
+}

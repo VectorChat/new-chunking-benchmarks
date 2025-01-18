@@ -1,0 +1,11 @@
+{
+  "question": "What musical influences does Blaik acknowledge for their sound in the ASCAP report?",
+  "index_name": "openai-index",
+  "namespace": "unstructured_chunker-129-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_1324"
+  },
+  "to_rerank": true
+}

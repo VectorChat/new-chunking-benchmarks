@@ -1,0 +1,11 @@
+{
+  "question": "What steps are intended before the NTC moves its base to Tripoli?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_8"
+  },
+  "to_rerank": true
+}

@@ -1,0 +1,11 @@
+{
+  "question": "What was the response of Field Marshal Gerd von Rundstedt to General Walther von Reichenau's Severity Order?",
+  "index_name": "openai-index",
+  "namespace": "miner-40_mixed_1000_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_5"
+  },
+  "to_rerank": true
+}

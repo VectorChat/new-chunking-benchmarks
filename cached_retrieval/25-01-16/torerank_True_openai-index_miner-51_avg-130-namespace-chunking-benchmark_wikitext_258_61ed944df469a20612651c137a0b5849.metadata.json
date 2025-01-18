@@ -1,0 +1,11 @@
+{
+  "question": "What are the seasonal limits for recreational fishing of California spiny lobsters?",
+  "index_name": "openai-index",
+  "namespace": "miner-51_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_258"
+  },
+  "to_rerank": true
+}

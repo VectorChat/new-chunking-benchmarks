@@ -1,0 +1,11 @@
+{
+  "question": "What are the three candidates Aristotle considers as substance?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_2"
+  },
+  "to_rerank": true
+}

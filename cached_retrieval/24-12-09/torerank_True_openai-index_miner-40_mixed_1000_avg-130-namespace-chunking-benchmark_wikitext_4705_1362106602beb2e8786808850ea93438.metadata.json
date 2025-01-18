@@ -1,0 +1,11 @@
+{
+  "question": "What industrial activities were prominent in Sheriff Hill before their decline by the 20th century?",
+  "index_name": "openai-index",
+  "namespace": "miner-40_mixed_1000_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_4705"
+  },
+  "to_rerank": true
+}

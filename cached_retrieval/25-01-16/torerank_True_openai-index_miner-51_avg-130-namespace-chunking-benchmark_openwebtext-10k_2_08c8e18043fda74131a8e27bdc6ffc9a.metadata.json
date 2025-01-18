@@ -1,0 +1,11 @@
+{
+  "question": "What does Aristotle ultimately favor as the paradigm of substance?",
+  "index_name": "openai-index",
+  "namespace": "miner-51_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_2"
+  },
+  "to_rerank": true
+}

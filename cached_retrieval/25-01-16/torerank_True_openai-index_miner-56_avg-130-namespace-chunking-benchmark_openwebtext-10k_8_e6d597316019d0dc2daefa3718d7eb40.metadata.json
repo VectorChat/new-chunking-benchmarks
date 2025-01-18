@@ -1,0 +1,11 @@
+{
+  "question": "What urgent tasks did Mitt Romney suggest for the new Libyan government regarding Abdelbaset al Megrahi?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_8"
+  },
+  "to_rerank": true
+}

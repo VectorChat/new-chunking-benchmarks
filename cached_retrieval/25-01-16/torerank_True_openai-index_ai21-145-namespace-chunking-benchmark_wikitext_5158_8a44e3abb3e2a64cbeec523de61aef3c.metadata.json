@@ -1,0 +1,11 @@
+{
+  "question": "What are the geographic names of the main islands in the Northern Isles?",
+  "index_name": "openai-index",
+  "namespace": "ai21-145-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_5158"
+  },
+  "to_rerank": true
+}

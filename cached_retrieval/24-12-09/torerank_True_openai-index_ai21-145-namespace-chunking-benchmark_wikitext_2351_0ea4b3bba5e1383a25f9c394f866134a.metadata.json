@@ -1,0 +1,11 @@
+{
+  "question": "Which films by Mani Ratnam were nominated as India's official entries to the Oscars for Best Foreign Language Film?",
+  "index_name": "openai-index",
+  "namespace": "ai21-145-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_2351"
+  },
+  "to_rerank": true
+}

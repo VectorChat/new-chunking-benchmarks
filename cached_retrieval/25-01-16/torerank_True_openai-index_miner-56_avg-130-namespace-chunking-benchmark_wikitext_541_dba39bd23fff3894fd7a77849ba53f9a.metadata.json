@@ -1,0 +1,11 @@
+{
+  "question": "When did the Levanger-Hokstad Ferry initiate a national test project involving fee changes for cars and passengers?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_541"
+  },
+  "to_rerank": true
+}

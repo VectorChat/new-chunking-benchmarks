@@ -1,0 +1,11 @@
+{
+  "question": "What factors determine the nature and intensity of the simulation involved in processing metaphorical descriptions of pain?",
+  "index_name": "openai-index",
+  "namespace": "unstructured_chunker-129-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_9"
+  },
+  "to_rerank": true
+}

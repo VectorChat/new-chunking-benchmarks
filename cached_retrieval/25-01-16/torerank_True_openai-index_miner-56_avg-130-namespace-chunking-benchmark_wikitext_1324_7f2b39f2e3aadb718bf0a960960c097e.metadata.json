@@ -1,0 +1,11 @@
+{
+  "question": "What caused the construction of the original Waddell Dam to be halted in 1896?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_1324"
+  },
+  "to_rerank": true
+}

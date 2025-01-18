@@ -1,0 +1,11 @@
+{
+  "question": "What method of execution was used on Joan Peterson, also known as the Witch of Wapping?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_75"
+  },
+  "to_rerank": true
+}

@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+out/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.venv
+cache_dir*

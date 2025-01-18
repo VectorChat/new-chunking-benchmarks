@@ -1,0 +1,11 @@
+{
+  "question": "What were the practices of Serbian forces during the war in Bosnia according to the text?",
+  "index_name": "openai-index",
+  "namespace": "miner-56_avg-130-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "openwebtext-10k_6"
+  },
+  "to_rerank": true
+}

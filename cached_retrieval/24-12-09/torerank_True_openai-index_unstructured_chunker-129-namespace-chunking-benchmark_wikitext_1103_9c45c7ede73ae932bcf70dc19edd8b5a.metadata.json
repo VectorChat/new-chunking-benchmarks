@@ -1,0 +1,11 @@
+{
+  "question": "What were the implications of the Mexican gillnet fisheries' expansion regarding conservation?",
+  "index_name": "openai-index",
+  "namespace": "unstructured_chunker-129-namespace-chunking-benchmark",
+  "retriever_topk": 400,
+  "rerank_topk": 100,
+  "filter": {
+    "chapter_name": "wikitext_1103"
+  },
+  "to_rerank": true
+}
